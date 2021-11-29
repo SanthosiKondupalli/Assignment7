@@ -21,6 +21,7 @@ Q7.Given a Linked List where every node represents a linked list and contains tw
 (i) anext pointer to the next node
 (ii) a bottom pointer to a linked list where this node is head.
 You have to flatten the linked list to a single linked list .
+https://youtu.be/Ic4cO3WD8vI
 
 Q8.Given a singly linked list, write a function to swap elements pairwise. For example, if the linked list is 1->2->3->4->5 then the function should change it to 2->1->4->3->5, and if the linked list is 1->2->3->4->5->6 then the function should change it to 2->1->4->3->6->5.
 https://youtu.be/DyiupfrYRgQ
